@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+data/chroma_db/
+data/md5.txt
+logs/
+.vscode/
+.idea/
